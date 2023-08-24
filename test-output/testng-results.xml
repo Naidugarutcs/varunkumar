@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[hi]]>
+    </line>
+    <line>
+      <![CDATA[varun]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-08-14T17:38:18 IST" name="Default suite" finished-at="2023-08-14T17:38:18 IST" duration-ms="65">
+    <groups>
+    </groups>
+    <test started-at="2023-08-14T17:38:18 IST" name="Default test" finished-at="2023-08-14T17:38:18 IST" duration-ms="65">
+      <class name="testngprograms.workingwithreporterlogin">
+        <test-method signature="demo()[pri:0, instance:testngprograms.workingwithreporterlogin@5158b42f]" started-at="2023-08-14T17:38:18 IST" name="demo" finished-at="2023-08-14T17:38:18 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[hi]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="demo2()[pri:0, instance:testngprograms.workingwithreporterlogin@5158b42f]" started-at="2023-08-14T17:38:18 IST" name="demo2" finished-at="2023-08-14T17:38:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[varun]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demo2 -->
+      </class> <!-- testngprograms.workingwithreporterlogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
